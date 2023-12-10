@@ -1,1 +1,5 @@
-# WEEKLY_DECEMBER_DEV_2
+# CHAT APP
+
+Lancement du projet
+  -npm i
+  -npm start 
